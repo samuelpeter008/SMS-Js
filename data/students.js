@@ -1,0 +1,26 @@
+const students = [
+    {
+      id: 1,
+      name: "John Doe",
+      email: "johndoe@example.com",
+      phoneNumber: "1234567890",
+      course: "Math",
+    },
+    {
+      id: 2,
+      name: "Jane Smith",
+      email: "janesmith@example.com",
+      phoneNumber: "9876543210",
+      course: "Science",
+    },
+    {
+      id: 3,
+      name: "Alice Johnson",
+      email: "alicejohnson@example.com",
+      phoneNumber: "4567891230",
+      course: "English",
+    },
+  ];
+  
+  module.exports = students;
+  
